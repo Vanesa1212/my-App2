@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App2</string>
+
+    <string name="btn_b">Boton 1</string>
+    <string name="text_v">Textos</string>
+    <string name="checkbox">opcion Mul</string>
+    <string name="Radio_b">botones_R</string>
+</resources>
